@@ -17,8 +17,4 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vh;
-            background-color: #f8d7da;
-            color: #721c24;
-            font-family: Arial, sans-serif;
-            overflow: h
+            height: 100
